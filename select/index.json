@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Ohaguro",
+  "base_artist": "luv",
+  "createdAt": "2026-02-08T16:17:44.342940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ohaguro",
+      "artist": "Youth Avoiders",
+      "has_synced": false,
+      "path": "select/01_Ohaguro_Youth_Avoiders.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ohaguro",
+      "artist": "luv",
+      "has_synced": false,
+      "path": "select/pl_01_Ohaguro_luv.txt"
+    }
+  ]
+}
